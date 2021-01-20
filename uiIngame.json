@@ -413,7 +413,7 @@
 		"italian": "Umore",
 		"bulgarian": "Настроение",
 		"czech": "Nálada",
-		"romanian": "Dispoziție",
+		"romanian": "しんじょう",
 	},
 	"friendships": {
 		"english": "Friendships",
@@ -451,7 +451,7 @@
 		"italian": "Fame",
 		"bulgarian": "Глад",
 		"czech": "Hlad",
-		"romanian": "Foame",
+		"romanian": "クウフク",
 	},
 	"stamina": {
 		"english": "Stamina",
@@ -470,7 +470,7 @@
 		"italian": "Energia",
 		"bulgarian": "Енергия",
 		"czech": "Energie",
-		"romanian": "Energie",
+		"romanian": "持久力",
 	},
 	"health": {
 		"english": "Health",
@@ -489,7 +489,7 @@
 		"italian": "Salute",
 		"bulgarian": "Здраве",
 		"czech": "Zdraví",
-		"romanian": "Sănătate",
+		"romanian": "健康",
 	},
 	"needsDescriptionMood": {
 		"english": "If you don't keep your colonists happy, they'll start being defiant and might stop following your orders.",
